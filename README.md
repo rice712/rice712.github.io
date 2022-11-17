@@ -9,6 +9,8 @@
 |11:10-12:00 PM|Lunch Break|Lunch Break|Lunch Break|Lunch Break|Lunch Break|
 |12:10-1:00 PM|Science|Computer|Music/Arts|Computer|Study Period|
 |1:10-2:00 PM|Science|English|Computer|PE/Health|Computer|
-|2:00-2:10|Examen|Examen|Examen|
+|2:00-2:10 PM|Examen|Examen|Examen|
+|2:10-3:00 PM|||||Music/Arts|
+|3:00-3:10 PM||||Examen|Examen|
 ---
 [`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://instagram.com) [`Twitter`](https://www.twitter.com)
