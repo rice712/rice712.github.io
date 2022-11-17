@@ -11,4 +11,4 @@
 |1:10-2:00 PM|Science|English|Computer|PE/Health|Computer|
 |2:00-2:10|Examen|Examen|Examen|
 ---
-[`Facebook`](https://facebook.com) [`Instagram`](https://instagram.com) [`Twitter`](https://www.twitter.com)
+[`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://instagram.com) [`Twitter`](https://www.twitter.com)
