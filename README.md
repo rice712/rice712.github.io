@@ -1,5 +1,7 @@
 # Gab's Page
+
 **Schedule**
+
 |            |Monday|Tuesday|Wednesday|Thursday|Friday|
 |------------|------|-------|---------|--------|------|
 |7:35-8:00 AM|HR    |HR     |HR       |      HR|    HR|
@@ -12,5 +14,7 @@
 |2:00-2:10 PM|Examen|Examen|Examen|
 |2:10-3:00 PM|||||Music/Arts|
 |3:00-3:10 PM||||Examen|Examen|
+
 ---
-[`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://instagram.com) [`Twitter`](https://www.twitter.com)
+
+[`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://www.instagram.com/aguilargab_/) [`Twitter`](https://www.twitter.com)
