@@ -1,6 +1,6 @@
 # Gab's Page
 
-**Schedule**
+**My Schedule**
 
 |            |Monday|Tuesday|Wednesday|Thursday|Friday|
 |------------|------|-------|---------|--------|------|
@@ -16,5 +16,10 @@
 |3:00-3:10 PM||||Examen|Examen|
 
 ---
+My 
 
+
+---
+# Profiles
 [`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://www.instagram.com/aguilargab_/) [`Twitter`](https://www.twitter.com)
+
