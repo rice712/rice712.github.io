@@ -1,6 +1,17 @@
-# Gab's Page
+# Welcome to my page!
+### I am Gabriel Emmanuel S. Aguilar
 
-**My Schedule**
+**Things I like**
+
+- Playing Basketball :basketball:
+- Playing Video Games :video_game:
+- Cats :cat:
+- sya :smiling_face_with_three_hearts:
+
+**My favorite basketball player is 
+
+
+**This Is My Schedule**
 
 |            |Monday|Tuesday|Wednesday|Thursday|Friday|
 |------------|------|-------|---------|--------|------|
@@ -20,6 +31,6 @@ My
 
 
 ---
-# Profiles
+# My Profiles
 [`Facebook`](https://www.facebook.com/gabriel.aguilar.712712) [`Instagram`](https://www.instagram.com/aguilargab_/) [`Twitter`](https://www.twitter.com)
 
