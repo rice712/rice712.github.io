@@ -8,7 +8,10 @@
 - Cats :cat:
 - siya :smiling_face_with_three_hearts:
 
-**My favorite basketball player is 
+**My favorite basketball player is Kevin Durant**
+
+<img src="[https://nba-smart.imgix.net/kevin-durant-nets.jpg]" width="480" height="270">
+
 
 
 **This Is My Schedule**
