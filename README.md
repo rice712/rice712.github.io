@@ -6,7 +6,7 @@
 - Playing Basketball :basketball:
 - Playing Video Games :video_game:
 - Cats :cat:
-- sya :smiling_face_with_three_hearts:
+- siya :smiling_face_with_three_hearts:
 
 **My favorite basketball player is 
 
