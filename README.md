@@ -10,7 +10,7 @@
 
 **My favorite basketball player is Kevin Durant**
 
-<img src="[https://nba-smart.imgix.net/kevin-durant-nets.jpg]" width="480" height="270">
+![Kevin Durant](https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png)
 
 
 
